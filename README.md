@@ -8,7 +8,7 @@ This repository contains simulation-based assignments and projects completed as 
 
 ---
 
-## 📌 Key Topics & Contributions  
+## Key Topics & Contributions  
 
 ### 1. Monte Carlo Simulation of *e* and *π*  
 - Estimated **Euler’s number (e)** using:
@@ -57,7 +57,7 @@ This repository contains simulation-based assignments and projects completed as 
 
 ---
 
-## 📊 Sample Outputs  
+## Sample Outputs  
 - Convergence plots for estimating *e* and *π*.  
 - Normality test results (W-statistic, KS D-value, CvM ω²).  
 - Contour plots (unimodal, bimodal, real datasets, image-based).  
